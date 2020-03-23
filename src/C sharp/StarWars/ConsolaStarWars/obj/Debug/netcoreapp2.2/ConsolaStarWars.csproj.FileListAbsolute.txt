@@ -1,0 +1,14 @@
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\obj\Debug\netcoreapp2.2\ConsolaStarWars.csprojAssemblyReference.cache
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\obj\Debug\netcoreapp2.2\ConsolaStarWars.csproj.CoreCompileInputs.cache
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\obj\Debug\netcoreapp2.2\ConsolaStarWars.AssemblyInfoInputs.cache
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\obj\Debug\netcoreapp2.2\ConsolaStarWars.AssemblyInfo.cs
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\bin\Debug\netcoreapp2.2\ConsolaStarWars.deps.json
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\bin\Debug\netcoreapp2.2\ConsolaStarWars.runtimeconfig.json
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\bin\Debug\netcoreapp2.2\ConsolaStarWars.runtimeconfig.dev.json
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\bin\Debug\netcoreapp2.2\ConsolaStarWars.dll
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\bin\Debug\netcoreapp2.2\ConsolaStarWars.pdb
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\bin\Debug\netcoreapp2.2\BibliotecaStarWars.dll
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\bin\Debug\netcoreapp2.2\BibliotecaStarWars.pdb
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\obj\Debug\netcoreapp2.2\ConsolaStarWars.csproj.CopyComplete
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\obj\Debug\netcoreapp2.2\ConsolaStarWars.dll
+C:\Users\efrainleon\Desktop\StarWars\ConsolaStarWars\obj\Debug\netcoreapp2.2\ConsolaStarWars.pdb

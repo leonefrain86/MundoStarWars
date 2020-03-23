@@ -1,0 +1,9 @@
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\obj\Debug\netstandard2.0\BibliotecaStarWars.csprojAssemblyReference.cache
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\obj\Debug\netstandard2.0\BibliotecaStarWars.csproj.CoreCompileInputs.cache
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\obj\Debug\netstandard2.0\BibliotecaStarWars.AssemblyInfoInputs.cache
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\obj\Debug\netstandard2.0\BibliotecaStarWars.AssemblyInfo.cs
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\bin\Debug\netstandard2.0\BibliotecaStarWars.deps.json
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\bin\Debug\netstandard2.0\BibliotecaStarWars.dll
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\bin\Debug\netstandard2.0\BibliotecaStarWars.pdb
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\obj\Debug\netstandard2.0\BibliotecaStarWars.dll
+C:\Users\efrainleon\Desktop\StarWars\BibliotecaStarWars\obj\Debug\netstandard2.0\BibliotecaStarWars.pdb
